@@ -1,0 +1,14 @@
+The dataset for this model was obtained from Kaggle.com
+The link to the data is: https://www.kaggle.com/phylake1337/fire-dataset
+The data is in Public Domain with CC0 License. This data is not owned by me.
+
+The authors are:
+
+Name  Ahmed Gamaleldin
+Bio   https://www.linkedin.com/in/ahmedgamal1496/
+Name  Ahmed Atef
+Bio   https://www.linkedin.com/in/ahmed-atef-a081aa141/
+Name  Heba Saker
+Bio   https://www.linkedin.com/in/heba-sakr/
+Name  Ahmed Shaheen
+Bio   https://www.linkedin.com/in/ahmed-a-shaheen/
